@@ -10,9 +10,9 @@
 🎬 This project analyzes movies budgets to uncover insights focusing on top movie spending, high-budget trends and budget variations across productions and languages.
 
 ## User Stories
-📊 As a data analyst, I want to explore movie budgets to determine whether budget influences a movie's success.
+🔍 As a data analyst, I want to explore movie budgets to determine whether budget influences a movie's success.
 
-📊 As a stakeholder, I want to understand budget variations in top films to make informed invesment decisions.
+🔍 As a stakeholder, I want to understand budget variations in top films to make informed invesment decisions.
 
 ## Transform Data
 1. Import dataset into PowerBI.
@@ -32,3 +32,8 @@
 8. Pie chart.
 9. Slicer (period_year).
 10. Dashboard design.
+
+#DASHBOARD
+📊 [Download the file](./Budgeting_Report.pbix) and open in Power BI Desktop for interactive viewing.
+
+📊 [See a screenshot](./Budgeting_Report.jpg) of the Dashboard in jpg.
