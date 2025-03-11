@@ -2,6 +2,7 @@
 
 ## Setup
 📌 This project requires Power BI Desktop.
+
 📌 The dataset for this project was obtained from Kaggle. You can find it [here]([https://www.kaggle.com/dataset-link](https://www.kaggle.com/datasets/ursmaheshj/top-10000-popular-movies-tmdb-05-2023)).
 
 ## Project Overview
@@ -9,4 +10,5 @@
 
 ## User Stories
 📊 As a data analyst, I want to explore movie budgets to determine whether budget influences a movie's success.
+
 📊 As a stakeholder, I want to understand budget variations in top films to make informed invesment decisions.
