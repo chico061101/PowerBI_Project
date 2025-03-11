@@ -1,5 +1,5 @@
 ## BudgetAnalysis_PowerQuery_PowerBI
 
-#Setup
+# Setup
 - This project requires Power BI Desktop.
 - 
