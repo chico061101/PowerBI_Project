@@ -33,7 +33,7 @@
 9. Slicer (period_year).
 10. Dashboard design.
 
-#DASHBOARD
+# DASHBOARD
 📊 [Download the file](./Budgeting_Report.pbix) and open in Power BI Desktop for interactive viewing.
 
 📊 [See a screenshot](./Budgeting_Report.jpg) of the Dashboard in jpg.
